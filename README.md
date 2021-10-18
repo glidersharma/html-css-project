@@ -1,6 +1,7 @@
 # HTML/CSS Project
 
 First step is to fork this repo into your own Github account - if you don't remember how, then refer back Lesson 0 contents.
+good readme
 
 ## For Week 1
 
